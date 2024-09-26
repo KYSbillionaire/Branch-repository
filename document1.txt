@@ -15,6 +15,7 @@ def partition(l, r, nums):
 # for the right values.
  
 # hello. my name is yoonseok. I'm CEO in YS global, the global enterprise.
+# I'm legend.
  
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
